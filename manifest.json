@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Emotion Detector",
+  "version": "1.0",
+  "description": "Unlock the fascinating world of emotions with the Emotion Detector Chrome extension! This powerful tool brings real-time facial expression analysis to your online experience, allowing you to explore and understand emotions like never before.\n\nKey Features:\n🎭 Real-Time Analysis: Instantly analyze facial expressions using your webcam.\n🤔 Enhanced Understanding: Gain insights into emotions such as joy, sadness, surprise, and more.\n📷 Webcam Integration: Seamlessly integrates with your webcam for a user-friendly experience.\n🌐 Perfect for Online Interactions: Elevate video calls, online meetings, and user engagement with emotion analysis.\n\nHow to Use:\n1. Install the Extension: Add Emotion Detector to your Chrome browser.\n2. Open the Popup: Click on the extension icon to open the popup.\n3. Activate Webcam: Click 'Detect Emotions' to experience real-time emotion analysis.\n\nWhy Emotion Detector?\n- Communication Insights: Enhance your communication by understanding emotional responses.\n- Engagement Metrics: Analyze user engagement in online content.\n- Educational Tool: Perfect for educators and students studying emotional intelligence.\n\nDownload Emotion Detector now and bring emotions to life in your online interactions!",
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "emotiondetectionicon.png",
+      
+      "128": "emotion128.png"
+    }
+  }
+}
